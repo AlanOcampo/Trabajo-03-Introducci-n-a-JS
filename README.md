@@ -1,5 +1,5 @@
 # Trabajo-03-Introducci-n-a-JS
-//Este codigo no es mio, simplemente lo modifique con fines de estudio. link del autor https://www.youtube.com/watch?v=Q7AOvWpIVHU: 
+//Este codigo no es mio, simplemente lo modifique con fines de estudio. link del autor https://www.youtube.com/watch?v=Q7AOvWpIVHU/ //
 Para poder ejecutar la pagina web debemos poner estos comandos en CMD dentro de la ubicacion donde se guardara.
 npm init @vitejs/app
 myproyect
